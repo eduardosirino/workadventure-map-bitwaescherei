@@ -13,7 +13,7 @@ In order to build your own map for WorkAdventure, you need:
 - a web-server to serve your map (this starter kit proposes to use Github static pages as a web-server which is both free and performant)
 
 ## Customizing your map
-
+##try
 Your map is already up and online. You need to customize it.
 
 ### Cloning the map
